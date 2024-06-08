@@ -77,7 +77,7 @@ The front-end for this backend application can be found at the following GitHub 
     ng serve 
     ```
 
-#### Usage
+## Usage
 1.  **Login:**
     Use the provided credentials to log in:
     Email: admin@email.com
